@@ -10,6 +10,12 @@ html, body {
 body {
   margin: 80px 0; }
 
+div {
+  padding: 20px;
+  background-color: black;
+  margin: 10px;
+}
+
 input {
   display: inline-block;
   background: #8f7a66;
